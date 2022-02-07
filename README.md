@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <p  align = "center"><img align="center" width="40%" height="auto" src="https://cdn.dribbble.com/users/870476/screenshots/11226950/media/9630cdb5a4e7a93677aba8db2043bae5.jpg?compress=1&resize=1200x900" height="175px"/></p>
 
-<h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ,I'm Bharadwaj</h1>
+<h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ,I'm Pavan</h1>
 <h3 align="center">A passionate Full-Stack Developer in the making from India</h3>
 
 
@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 Check out some of my works at [My Portfolio](bharadwaj-bhat.herokuapp.com)
+- 👨‍💻 Check out some of my works at [My Portfolio](https://github.com/Lpavan6445)
 
 - 💬 Ask me about **React and JavaScript**
 
@@ -39,25 +39,16 @@ You can click the Preview link to take a look at your changes.
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 <br/>
 
-<p align="center">
-    <a href="https://github.com/bharadwaj-bhat/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bharadwaj-bhat&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
 
-## 📊 My Github Stats
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Lpavan6445)  
 
-  <br/>
-    <a href="https://github.com/bharadwaj-bhat/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bharadwaj-bhat&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharadwaj-bhat&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lpavan6445)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lpavan6445&show_icons=true&count_private=true)  
 
-<br/>
-<br/>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Lpavan6445)  
 
-<a href="https://github.com/bharadwaj-bhat/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bharadwaj-bhat&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Lpavan6445) 
 
 <br/>
 <br/>
