@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @Lpavan6445
--    I am from Hyderabad, INDIA.
-- 👀 I’m interested in Development...
-- 🌱 I’m currently learning  Full Stack Webdevelopment ...
-- 📫 How to reach me  L.pavan6445@gmail.com...
-
 <!---
 Lpavan6445/Lpavan6445 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -24,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 - 💬 Ask me about **React and JavaScript**
 
-- 📫 Reach out to me at **sbhatbharadwaj24@gmail.com**
+- 📫 Reach out to me at **L.pavan6445@gmail.com**
 
 - ⚡ Fun fact **Why do programmers prefer dark mode?....... Coz the light attracts bugs :)**
 
