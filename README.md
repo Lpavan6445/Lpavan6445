@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> 
    <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<!--   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> -->
 <!--   <img alt="C" src="https://img.shields.io/badge/C%20Language-00599C?style=for-the-badge&logo=c&logoColor=white" /> -->
 <!--   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> -->
 <!--   <img alt="ASSEMBLY0x86" src="https://img.shields.io/badge/Assembly%200x86-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" /> -->
@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
   <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img alt="Typescript" src="https://img.shields.io/badge/typescript-47a9e3?style=for-the-badge&logo=typescript&logoColor=white" />
+<!-- <img alt="Typescript" src="https://img.shields.io/badge/typescript-47a9e3?style=for-the-badge&logo=typescript&logoColor=white" /> -->
 <!--   <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> -->
   <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <!--   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /> -->
@@ -52,7 +52,7 @@ You can click the Preview link to take a look at your changes.
 
  <p align="center">
     <a href="https://github.com/Lpavan6445/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="pavan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Lpavan6445&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&date_format=M%20j%5B%2C%20Y%5D"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="pavan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Lpavan6445&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -60,7 +60,7 @@ You can click the Preview link to take a look at your changes.
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Lpavan6445/github-readme-stats"><img alt="Pavan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lpavan6445&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Lpavan6445/github-readme-stats"><img alt="Pavan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lpavan6445&show_icons=tru&count_private=truee&theme=react&hide_border=true&bg_color=0D1117"/></a>
   <a href="https://github.com/Lpavan6445/github-readme-stats"><img alt="Pavan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lpavan6445&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
