@@ -60,8 +60,8 @@ You can click the Preview link to take a look at your changes.
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/bharadwaj-bhat/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/bharadwaj_bhat/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/pvn1/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
 
