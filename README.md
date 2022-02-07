@@ -39,8 +39,7 @@ You can click the Preview link to take a look at your changes.
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 <br/>
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Lpavan6445)  
+ 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lpavan6445)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -61,8 +60,4 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
-<!-- ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=bharadwaj-bhat">
-</a>
-<a href="https://github.com/bharadwaj-bhat?tab=followers"><img src="https://img.shields.io/github/followers/bharadwaj-bhat?label=Followers&style=social" alt="GitHub Badge"></a> -->
+
