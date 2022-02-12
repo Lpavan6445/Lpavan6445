@@ -78,7 +78,6 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
 
 <a  href = "https://www.linkedin.com/in/pvn1/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a target="_blank" href = "https://www.instagram.com/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
 
