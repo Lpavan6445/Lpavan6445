@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 ## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning **Full-Stack Development**
-- 👨‍💻 Check out some of my works at [My Portfolio](https://pavan-portfolio-gold.vercel.app/#clients)
+- 👨‍💻 Check out some of my works at [My Portfolio](https://pavan-lenkala-portfolio.vercel.app/#clients)
 
 - 💬 Ask me about **React and JavaScript**
 
