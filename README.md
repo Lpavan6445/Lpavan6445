@@ -6,8 +6,8 @@ You can click the Preview link to take a look at your changes.
 <p align="">
   <a target="_blank" href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;Full+Stack+Web+Developer;Algorithm;MERN;Data+Structure"></a>
 </p>
- <br/>
-## 🙋‍♂️ About Me
+ 
+## 🙋‍♂️ About Me:
 
 - 🌱 I’m currently learning **Full-Stack Development**
 - 👨‍💻 Check out some of my works at [My Portfolio](https://pavan-lenkala-portfolio.vercel.app/#clients)
