@@ -7,8 +7,6 @@ You can click the Preview link to take a look at your changes.
   <a target="_blank" href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;Full+Stack+Web+Developer;Algorithm;MERN;Data+Structure"></a>
 </p>
  <br/>
-
-
 ## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning **Full-Stack Development**
@@ -25,9 +23,8 @@ You can click the Preview link to take a look at your changes.
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)  [![Html Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)  [![Css Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)  [![Mongodb Badge](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)](#)  [![Express Badge](https://img.shields.io/badge/express-FFFFFF?style=for-the-badge&logo=express&logoColor=000000)](#)  [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)   [![Npm Badge](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](#)
 <br/>
   
-
+## How to reach me: 📫:
 <div align="left">
-<h3 align="left">How to reach me: 📫</h3>
   <a href="mailto:L.pavan6445@gmail.com" target="_blank">
   <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=twitter style="margin-bottom: 5px;" />
   </a>
