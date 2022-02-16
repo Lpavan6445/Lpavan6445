@@ -2,8 +2,8 @@
 Lpavan6445/Lpavan6445 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ,I'm Pavan Lenkala</h1>
-<p align="center">
+<h1 align="">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ,I'm Pavan Lenkala</h1>
+<p align="">
   <a target="_blank" href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;Full+Stack+Web+Developer;Algorithm;MERN;Data+Structure"></a>
 </p>
  <br/>
@@ -33,6 +33,8 @@ You can click the Preview link to take a look at your changes.
   </a>
   <a href="https://www.linkedin.com/in/pvn1/" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a></div>
+  </a>
+  <a target="_blank" href="https://pavan-lenkala-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=portfolio&logoColor=white" /></a>
+</div>
 
 
