@@ -28,8 +28,15 @@ You can click the Preview link to take a look at your changes.
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lpavan6445&langs_count=8&theme=algolia" alt="Lpavan6445's GitHub stats" />
 </div>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<br>
+<br>
+<div align="left">
+<img alt="Chiranjeev Thapliyal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Lpavan6445&bg_color=050f2c&color=FFFF&line=5BCDEC&point=FFFFFF&border=true" />
+  </div>
   
 ## 📫 How to reach me:
+
 <div align="left">
   <a href="mailto:L.pavan6445@gmail.com" target="_blank">
   <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=twitter style="margin-bottom: 5px;" />
